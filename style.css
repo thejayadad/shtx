@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: black;
+    color: #222;
+}
+
+
+h2{
+    letter-spacing: .5rem;
+    font-size: 3rem;
+    text-shadow: 4px 5px rgb(97, 122, 222);
+    color: rgb(212, 228, 242);
+}
